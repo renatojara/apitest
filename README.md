@@ -9,8 +9,6 @@ API TEST EDGEJOB
 
 ```bash
 $ npm install
-
-npm prisma migrate dev
 ```
 
 ## Running the app
